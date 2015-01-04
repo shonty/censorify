@@ -1,9 +1,17 @@
  {
    "author": "Shane McHugh",
-   "name": "censorify",
+   "name": "censorify_1",
    "version": "0.1.1",
    "description": "Censors words out of text",
    "main": "censortext",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/shonty/censorify.git"
+   },
+   "keywords": [
+     "censor",
+     "words"
+  ],
    "dependencies": {},
    "engines": {
        "node": "*"
